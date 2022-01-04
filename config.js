@@ -1,7 +1,7 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://bit.ly/36cLg9x']
 global.channelYT = ['https://bit.ly/3hg3bm4'] 
-global.owner = ['62895320853387']// Put your number here
+global.owner = ['6285773557984']// Put your number here
 global.mods = ['62895320853387', '380944480179'] // Want some help?
 global.partner = ['628978319619', '6281111111111', '0'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
