@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://bit.ly/36cLg9x']
-global.channelYT = ['https://bit.ly/3hg3bm4'] 
-global.owner = ['6285773557984']// Put your number here
-global.mods = ['62895320853387', '380944480179'] // Want some help?
-global.partner = ['628978319619', '6281111111111', '0'] // Want some help?
+global.linkFB = ['https://facebook.com/ribeng2']
+//global.channelYT = ['https://bit.ly/3hg3bm4'] 
+global.owner = ['6281257172080']// Put your number here
+global.mods = ['6281257172080', '6281257172080'] // Want some help?
+global.partner = ['6281257172080', '6281257172080', '0'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -34,8 +34,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'BotolBotZ'
-global.author = 'https://bit.ly/YTBotolBotZ'
+global.packname = 'iBeng NEW'
+global.author = 'iBeng OFC'
 
 global.multiplier = 69 // The higher, The harder levelup
 
